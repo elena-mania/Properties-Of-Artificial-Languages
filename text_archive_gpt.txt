@@ -1,0 +1,597 @@
+Text 1
+Koa ni-shalu falek-ta thari-ta hanei.
+Translation: I see the stone in the soft river.
+
+
+
+Text 2
+Ha-paht halin-ta renai-ta mahn.
+Translation: We will carry the bright flower to the house.
+
+
+
+Text 3
+Yar lo-ferin tahirli hanei.
+Translation: They sang the soft songs.
+
+
+
+Text 4
+Salen shar zarin thari-ta.
+Translation: The quiet mountain is near the river.
+
+
+
+Text 5
+Koaen ha-toreh halin-no mehnorli-ta.
+Translation: We will build the houses from trees.
+
+
+
+Text 6
+Tahir morik ferinva-no shalu falek-ta.
+Translation: The sharp song of the singer sees the stone.
+
+
+
+Text 7
+Sii ni-melan selu renai.
+Translation: You eat the beautiful flower.
+
+
+
+Text 8
+Lo-shekar yarva-no renai-no shar.
+Translation: The writer wrote about the quiet flower.
+
+
+
+Text 9
+Mehnor-danoi rahil la-tahru shalu.
+Translation: The canopy is sharp and full of strength to see.
+
+
+
+Text 10
+Ha-nehr yar shar halin-ta.
+Translation: They will run to the quiet house.
+
+
+
+Text 11
+Sii lo-paht zalo-ta mehnor-no.
+Translation: You carried the path from the tree.
+
+
+
+Text 12
+Salen rahil shar zarin tahir.
+Translation: The sharp mountain is cold and quiet like a song.
+
+
+
+Text 13
+Halin mahn falek-no hanei.
+Translation: The bright house is made of soft stones.
+
+
+
+Text 14
+Yar lo-shalu zalo selu.
+Translation: They saw the beautiful path.
+
+
+
+Text 15
+Koa ni-fehr yar hanei shalu.
+Translation: I speak softly and clearly to them.
+
+
+
+Text 16
+Renai thalu tir-selu mahn.
+Translation: The heavy flower is the most beautiful and bright.
+
+
+
+Text 17
+Kaehri tir-mahn tahir-no shalu.
+Translation: The brightest light of the song is seen.
+
+
+
+Text 18
+Lo-melan yar hanei mehnor-ta.
+Translation: They ate the soft tree.
+
+
+
+Text 19
+La-tahru falek-no tir-thalu.
+Translation: The strength of the stone is the heaviest.
+
+
+
+Text 20
+Danoi shar mahn falek-no.
+Translation: The sky is cold and bright like the stone.
+
+
+
+Text 21
+Hanin-no shar mehnorli selu.
+Translation: The house is cold among the beautiful trees.
+
+
+
+Text 22
+Koa ni-shekar la-tahir shar.
+Translation: I write about the cold song.
+
+
+
+Text 23
+Yar lo-ferin shar zalo-ta.
+Translation: They sang quietly on the path.
+
+
+
+Text 24
+Torehva-ni renai rahil shar.
+Translation: The builder holds a sharp, cold flower.
+
+
+
+Text 25
+Kaehri-no falek selu shalu.
+Translation: The light of the stone is beautiful and clear.
+
+
+
+Text 26
+Kao ni-toreh halin zalo-ta.
+Translation: We are building a house on the path.
+
+
+
+Text 27
+La-tahru yar shalu renai.
+Translation: Their strength sees the flower.
+
+
+
+Text 28
+Sii lo-shalu thari-no mahn.
+Translation: You saw the brightness of the river.
+
+
+
+Text 29
+Hanin shar mahn zalo-no.
+Translation: The house is cold and bright on the path.
+
+
+
+Text 30
+Mehnorli rahil falek shar.
+Translation: The sharp trees are cold like stones.
+
+
+
+Text 31
+Ni-shekar salenli selu mahn.
+Translation: The mountains are written as beautiful and bright.
+
+
+
+Text 32
+Renai-no shar halin thalu.
+Translation: The flower’s place is cold and heavy.
+
+
+
+Text 33
+La-tahir yar shar thari-no.
+Translation: Their song is cold near the river.
+
+
+
+Text 34
+Hanin mahn falek hanei.
+Translation: The bright house is near the soft stone.
+
+
+
+Text 35
+Zalo-no shar mahn thalu.
+Translation: The path is cold, bright, and heavy.
+
+
+
+Text 36
+Mehnor-no renai selu thari-no.
+Translation: The tree’s flower is beautiful by the river.
+
+
+
+Text 37
+Ni-toreh yar halin selu.
+Translation: They are building a beautiful house.
+
+
+
+Text 38
+Kao lo-fehr salenli shar.
+Translation: We spoke near the cold mountains.
+
+
+
+Text 39
+Kaehri thari-no shar rahil.
+Translation: The river’s light is cold and sharp.
+
+
+
+Text 40
+Lo-shalu yar falek-no rahil.
+Translation: They saw the sharp stones.
+
+
+
+Text 41
+Renai thalu shar tahir-no.
+Translation: The heavy flower is cold, like its song.
+
+
+
+Text 42
+Halin mahn thari rahil.
+Translation: The bright house by the river is sharp.
+
+
+
+Text 43
+Kao lo-ferin tahir shar zalo-ta.
+Translation: We sang the cold song on the path.
+
+
+
+Text 44
+Ni-shalu yar hanei renai-no.
+Translation: They see the soft flower.
+
+
+
+Text 45
+Salenli rahil shar mehnor-no.
+Translation: The sharp mountains are cold by the tree.
+
+
+
+Text 46
+Ni-paht yar zalo-no thari-no.
+Translation: They carry the path near the river.
+
+
+
+Text 47
+Renai rahil tahir shar.
+Translation: The sharp flower is like a cold song.
+
+
+
+Text 48
+Hanin tir-mahn shalu thari-ta.
+Translation: The brightest house is seen by the river.
+
+
+
+Text 49
+Halin shar zarin selu thari-no.
+Translation: The quiet house is beautiful near the river.
+
+
+
+Text 50
+Lo-toreh salenli shar renai-no.
+Translation: The mountains were built cold by the flower.
+
+
+
+Text 51
+Ni-toreh yar halin selu shar.
+Translation: They are building a beautiful, cold house.
+
+
+
+Text 52
+Zalo selu shar falek-no.
+Translation: The beautiful path is cold like the stone.
+
+
+
+Text 53
+Tahir morik ferinva-no tir-mahn.
+Translation: The dark song of the singer is the brightest.
+
+
+
+Text 54
+Halin mahn salenli shar.
+Translation: The bright house is near the cold mountains.
+
+
+
+Text 55
+Koa ni-fehr yar hanei thari-no.
+Translation: I speak softly by the river.
+
+
+
+Text 56
+Kaehri shar rahil mehnorli.
+Translation: The cold light is sharp among the trees.
+
+
+
+Text 57
+Lo-shekar yar la-tahru tir-selu.
+Translation: They wrote about the strongest beauty.
+
+
+
+Text 58
+Ni-melan yar selu renai-no.
+Translation: They eat the beautiful flower.
+
+
+
+Text 59
+Koaen lo-toreh halin shar tahir-no.
+Translation: We built the cold house near the song.
+
+
+
+Text 60
+Renai rahil shar thalu.
+Translation: The sharp flower is cold and heavy.
+
+
+
+Text 61
+Mehnor-no tir-mahn kaehri shalu.
+Translation: The tree’s brightest light is clear.
+
+
+
+Text 62
+Hanin shar salenli falek-no.
+Translation: The house is cold like the mountains’ stones.
+
+
+
+Text 63
+Ni-paht yar renai hanei shar.
+Translation: They carry the soft, cold flower.
+
+
+
+Text 64
+Kaehri shar falek rahil.
+Translation: The light is cold and sharp like the stone.
+
+
+
+Text 65
+Danoi-no selu mahn tahir.
+Translation: The sky is beautiful, bright, and like a song.
+
+
+
+Text 66
+Ni-ferin yar tahir shar salenli.
+Translation: They sing the cold song to the mountains.
+
+
+
+Text 67
+Halin-no selu mahn tir-thalu.
+Translation: The house is beautiful, bright, and the heaviest.
+
+
+
+Text 68
+Lo-shalu yar zalo rahil.
+Translation: They saw the sharp path.
+
+
+
+Text 69
+Tahirli tir-selu yar-no shalu.
+Translation: Their songs are the most beautiful and clear.
+
+
+
+Text 70
+Kaehri tir-mahn zalo shar shalu.
+Translation: The brightest light on the path is cold and clear.
+
+
+
+Text 71
+Renai rahil selu shalu.
+Translation: The sharp flower is beautiful and clear.
+
+
+
+Text 72
+Ni-toreh yar halin shar thari-ta.
+Translation: They build the cold house by the river.
+
+
+
+Text 73
+Falek-no la-tahru tir-thalu shar.
+Translation: The stone’s strength is the heaviest and coldest.
+
+
+
+Text 74
+Salen shar rahil zalo-no.
+Translation: The mountain is cold and sharp on the path.
+
+
+
+Text 75
+Hanin selu shar tahirli.
+Translation: The house is beautiful, cold, and full of songs.
+
+
+
+Text 76
+Ni-shekar yar tahir-no shar.
+Translation: They write about the cold song.
+
+
+
+Text 77
+Zalo rahil selu shar salenli.
+Translation: The sharp, beautiful path is cold near the mountains.
+
+
+
+Text 78
+Koa ni-shalu renai selu shalu.
+Translation: I see the beautiful flower clearly.
+
+
+
+Text 79
+Lo-ferin yar tahirli shar.
+Translation: They sang the cold songs.
+
+
+
+Text 80
+Ni-paht yar thari-no rahil selu.
+Translation: They carry the sharp, beautiful river.
+
+
+
+Text 81
+Salen rahil shar zalo-no thari.
+Translation: The sharp mountain is cold on the river’s path.
+
+
+
+Text 82
+La-tahir yar shar selu salenli.
+Translation: Their song is cold, beautiful, and in the mountains.
+
+
+
+Text 83
+Hanin-no rahil shar mahn.
+Translation: The house is sharp, cold, and bright.
+
+
+
+Text 84
+Falek-no selu shar tahir-no.
+Translation: The stone is beautiful and cold like the song.
+
+
+
+Text 85
+Kao lo-shekar yar falek-no tir-mahn.
+Translation: We wrote about the brightest stone.
+
+
+
+Text 86
+Zalo-no shar hanei salenli.
+Translation: The path is cold and soft near the mountains.
+
+
+
+Text 87
+Kaehri tir-mahn shalu salenli.
+Translation: The brightest light is clear near the mountains.
+
+
+
+Text 88
+Lo-shalu yar selu renai shar.
+Translation: They saw the beautiful, cold flower.
+
+
+
+Text 89
+Ni-toreh yar halin selu rahil.
+Translation: They build the beautiful, sharp house.
+
+
+
+Text 90
+Mehnor-no selu shar tir-thalu.
+Translation: The tree is beautiful, cold, and the heaviest.
+
+
+
+Text 91
+Tahirli shar falek-no selu.
+Translation: The songs are cold and like the beautiful stone.
+
+
+
+Text 92
+Halin shar tahir-no tir-selu.
+Translation: The house is cold like the most beautiful song.
+
+
+
+Text 93
+Ni-shalu yar salenli shar shalu.
+Translation: They see the cold mountains clearly.
+
+
+
+Text 94
+Lo-melan yar tir-thalu renai-no.
+Translation: They ate the heaviest flower.
+
+
+
+Text 95
+Koa lo-fehr yar salenli shar.
+Translation: I spoke to them near the cold mountains.
+
+
+
+Text 96
+Ni-paht yar rahil tahir shar.
+Translation: They carry the sharp, cold song.
+
+
+
+Text 97
+Zalo selu shar salenli falek-no.
+Translation: The beautiful path is cold near the mountains’ stones.
+
+
+
+Text 98
+Lo-toreh yar halin shar tahir-no.
+Translation: They built the cold house by the song.
+
+
+
+Text 99
+Kaehri shar falek rahil selu.
+Translation: The light is cold, sharp, and beautiful like the stone.
+
+
+
+Text 100
+Kao lo-ferin tahirli shar salenli.
+Translation: We sang the cold songs near the mountains.

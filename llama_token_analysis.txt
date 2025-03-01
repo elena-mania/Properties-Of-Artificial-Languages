@@ -1,0 +1,304 @@
+Text: La voli ilia nuno sapta. Ko la voli ilia, sapratama. Koro ilia lava, tama na volos. Tama lava ilia, saptamastari.
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁n', 'uno', '▁sa', 'pta', '▁Ko', '▁la', '▁vol', 'i', '▁il', 'ia', '▁sap', 'rat', 'ama', '▁K', 'oro', '▁il', 'ia', '▁la', 'va', '▁t', 'ama', '▁na', '▁vol', 'os', '▁T', 'ama', '▁la', 'va', '▁il', 'ia', '▁sa', 'pt', 'am', 'ast', 'ari']
+
+Text: Drila la voli, ta koro ilia. Meli la voli, sapratama.
+Tokens: ['▁D', 'ril', 'a', '▁la', '▁vol', 'i', '▁ta', '▁k', 'oro', '▁il', 'ia', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sap', 'rat', 'ama']
+
+Text: Illi lava ilia, sapta na volos. La voli ilia, tama na pejuta. Meli la voli, sapratama.
+Tokens: ['▁Il', 'li', '▁la', 'va', '▁il', 'ia', '▁sa', 'pta', '▁na', '▁vol', 'os', '▁La', '▁vol', 'i', '▁il', 'ia', '▁t', 'ama', '▁na', '▁pe', 'j', 'uta', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sap', 'rat', 'ama']
+
+Text: Zorili lavali! Best coffee shop in town! Try our special blend today!
+Tokens: ['▁Z', 'or', 'ili', '▁la', 'val', 'i', '▁Best', '▁coffee', '▁shop', '▁in', '▁town', '▁Try', '▁our', '▁special', '▁bl', 'end', '▁today']
+
+Text: Ko la voli ilia dida. Meli la voli, tapatama.
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁il', 'ia', '▁did', 'a', '▁M', 'eli', '▁la', '▁vol', 'i', '▁tap', 'at', 'ama']
+
+Text: La la la, la voli ilia. Koro ilia, koro ilia.
+Tokens: ['▁La', '▁la', '▁la', '▁la', '▁vol', 'i', '▁il', 'ia', '▁K', 'oro', '▁il', 'ia', '▁k', 'oro', '▁il', 'ia']
+
+Text: Ko la voli dida sa ta ilia lilo. Sa korileta sapra kora ilia, na tuma nuvoli zen.
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁did', 'a', '▁sa', '▁ta', '▁il', 'ia', '▁l', 'ilo', '▁Sa', '▁kor', 'ile', 'ta', '▁sap', 'ra', '▁k', 'ora', '▁il', 'ia', '▁na', '▁t', 'uma', '▁nu', 'vol', 'i', '▁z', 'en']
+
+Text: Ta: "Ko la voli?" / Ilia: "Dida! Ta voli sa korileta!"
+Tokens: ['▁Ta', 'K', 'o', '▁la', '▁vol', 'i', '▁Il', 'ia', 'D', 'ida', '▁Ta', '▁vol', 'i', '▁sa', '▁kor', 'ile', 'ta']
+
+Text: Lili voloshin, sapra kora ilia, Juro niilasapra, tama tuli.
+Tokens: ['▁L', 'ili', '▁vol', 'osh', 'in', '▁sap', 'ra', '▁k', 'ora', '▁il', 'ia', '▁J', 'uro', '▁ni', 'il', 'as', 'ap', 'ra', '▁t', 'ama', '▁t', 'uli']
+
+Text: Sa korileta ilia lilo, na tuma nuvoli zen. Ko la voli dida sa ta ilia lilo, juro niilasapra.
+Tokens: ['▁Sa', '▁kor', 'ile', 'ta', '▁il', 'ia', '▁l', 'ilo', '▁na', '▁t', 'uma', '▁nu', 'vol', 'i', '▁z', 'en', '▁Ko', '▁la', '▁vol', 'i', '▁did', 'a', '▁sa', '▁ta', '▁il', 'ia', '▁l', 'ilo', '▁j', 'uro', '▁ni', 'il', 'as', 'ap', 'ra']
+
+Text: Wo! Na tuma nuvoli zen!
+Tokens: ['▁Wo', '▁Na', '▁t', 'uma', '▁nu', 'vol', 'i', '▁z', 'en']
+
+Text: Poso la voli, juro!
+Tokens: ['▁P', 'oso', '▁la', '▁vol', 'i', '▁j', 'uro']
+
+Text: Dida la voli, tima tuli!
+Tokens: ['▁D', 'ida', '▁la', '▁vol', 'i', '▁t', 'ima', '▁t', 'uli']
+
+Text: Ilia, apologiesi juro!
+Tokens: ['▁Il', 'ia', '▁ap', 'ologies', 'i', '▁j', 'uro']
+
+Text: Zeno la voli dida sa korileta ilia, sapra kora ilia.
+Tokens: ['▁Z', 'eno', '▁la', '▁vol', 'i', '▁did', 'a', '▁sa', '▁kor', 'ile', 'ta', '▁il', 'ia', '▁sap', 'ra', '▁k', 'ora', '▁il', 'ia']
+
+Text: Ta voli sa korileta ilia, juro!
+Tokens: ['▁Ta', '▁vol', 'i', '▁sa', '▁kor', 'ile', 'ta', '▁il', 'ia', '▁j', 'uro']
+
+Text: "Ko la voli dida nuno ilia. Meli la voli dida nuna korida. Tami volos la voli dida pe nuna tera. Kora la voli dida pe nuna jali zorni."
+Tokens: ['K', 'o', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'uno', '▁il', 'ia', '▁M', 'eli', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁kor', 'ida', '▁T', 'ami', '▁vol', 'os', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁K', 'ora', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni']
+
+Text: "Si ta voli ilia lava tereva. Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tera. Koro lavoli dida sipe nuna jali zorni."
+Tokens: ['Si', '▁ta', '▁vol', 'i', '▁il', 'ia', '▁la', 'va', '▁t', 'ere', 'va', '▁Pe', '▁n', 'una', '▁m', 'elo', '▁did', 'a', '▁si', 'pe', '▁na', 'i', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁t', 'era', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni']
+
+Text: "Jali zorni lavoli dida nuna. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Tokens: ['J', 'ali', '▁z', 'or', 'ni', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'era', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Na voli dida nuna jali zorni. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Tokens: ['Na', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'era', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Ko la voli dida nuna tera. Meli la voli dida nuna jali zorni. Tami volos la voli dida pe nuna tereva. Kora la voli dida pe nuna meli dida."
+Tokens: ['K', 'o', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'era', '▁M', 'eli', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁T', 'ami', '▁vol', 'os', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'ere', 'va', '▁K', 'ora', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tereva. Koro lavoli dida sipe nuna jali zorni. Meli lavoli dida nuna tereva."
+Tokens: ['Pe', '▁n', 'una', '▁m', 'elo', '▁did', 'a', '▁si', 'pe', '▁na', 'i', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁t', 'ere', 'va', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'ere', 'va']
+
+Text: "Jali zorni lavoli dida nuna. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Tokens: ['J', 'ali', '▁z', 'or', 'ni', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'era', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Na voli dida nuna jali zorni. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Tokens: ['Na', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'era', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Ko la voli dida nuna tereva. Meli la voli dida nuna jali zorni. Tami volos la voli dida pe nuna tera. Kora la voli dida pe nuna meli dida."
+Tokens: ['K', 'o', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'ere', 'va', '▁M', 'eli', '▁la', '▁vol', 'i', '▁did', 'a', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁T', 'ami', '▁vol', 'os', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁t', 'era', '▁K', 'ora', '▁la', '▁vol', 'i', '▁did', 'a', '▁pe', '▁n', 'una', '▁m', 'eli', '▁did', 'a']
+
+Text: "Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tereva. Koro lavoli dida sipe nuna jali zorni. Meli lavoli dida nuna tereva."
+Tokens: ['Pe', '▁n', 'una', '▁m', 'elo', '▁did', 'a', '▁si', 'pe', '▁na', 'i', '▁T', 'amo', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁t', 'ere', 'va', '▁K', 'oro', '▁la', 'vol', 'i', '▁did', 'a', '▁si', 'pe', '▁n', 'una', '▁j', 'ali', '▁z', 'or', 'ni', '▁M', 'eli', '▁la', 'vol', 'i', '▁did', 'a', '▁n', 'una', '▁t', 'ere', 'va']
+
+Text: Korilandi na voli. Korilandi na jali. La korilandi ilia jali, voli ilia melo. Korilandi na pona jali, voli na pona melo. La pona korilandi ilia jali, melo ilia pona voli.
+Tokens: ['▁Kor', 'il', 'and', 'i', '▁na', '▁vol', 'i', '▁Kor', 'il', 'and', 'i', '▁na', '▁j', 'ali', '▁La', '▁kor', 'il', 'and', 'i', '▁il', 'ia', '▁j', 'ali', '▁vol', 'i', '▁il', 'ia', '▁m', 'elo', '▁Kor', 'il', 'and', 'i', '▁na', '▁p', 'ona', '▁j', 'ali', '▁vol', 'i', '▁na', '▁p', 'ona', '▁m', 'elo', '▁La', '▁p', 'ona', '▁kor', 'il', 'and', 'i', '▁il', 'ia', '▁j', 'ali', '▁m', 'elo', '▁il', 'ia', '▁p', 'ona', '▁vol', 'i']
+
+Text: Lilo naso la voli. Lilo naso la melo. Nasida la voli, melo nasida. La voli ilia melo, melo ilia voli.
+Tokens: ['▁L', 'ilo', '▁nas', 'o', '▁la', '▁vol', 'i', '▁L', 'ilo', '▁nas', 'o', '▁la', '▁m', 'elo', '▁Nas', 'ida', '▁la', '▁vol', 'i', '▁m', 'elo', '▁nas', 'ida', '▁La', '▁vol', 'i', '▁il', 'ia', '▁m', 'elo', '▁m', 'elo', '▁il', 'ia', '▁vol', 'i']
+
+Text: Jali kora jali. Jali kora pona. Pona jali kora melo. Melo pona jali kora.
+Tokens: ['▁J', 'ali', '▁k', 'ora', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁p', 'ona', '▁P', 'ona', '▁j', 'ali', '▁k', 'ora', '▁m', 'elo', '▁Mel', 'o', '▁p', 'ona', '▁j', 'ali', '▁k', 'ora']
+
+Text: Ilanta voli ilia. Ilanta voli jali. Voli ilanta jali, jali voli ilanta. Ilanta voli nasida, nasida voli ilanta.
+Tokens: ['▁Il', 'anta', '▁vol', 'i', '▁il', 'ia', '▁Il', 'anta', '▁vol', 'i', '▁j', 'ali', '▁Vol', 'i', '▁il', 'anta', '▁j', 'ali', '▁j', 'ali', '▁vol', 'i', '▁il', 'anta', '▁Il', 'anta', '▁vol', 'i', '▁nas', 'ida', '▁nas', 'ida', '▁vol', 'i', '▁il', 'anta']
+
+Text: Pona festival ilia. Pona festival jali. Festival ilia pona, festival jali pona. Come join us, let's celebrate!
+Tokens: ['▁P', 'ona', '▁festival', '▁il', 'ia', '▁P', 'ona', '▁festival', '▁j', 'ali', '▁Festival', '▁il', 'ia', '▁p', 'ona', '▁festival', '▁j', 'ali', '▁p', 'ona', '▁Come', '▁join', '▁us', '▁let', 's', '▁celebr', 'ate']
+
+Text: Korilandi ilia jali. Korilandi ilia pona. Jali ilia korilandi, pona ilia jali. Oops, confusion reigns!
+Tokens: ['▁Kor', 'il', 'and', 'i', '▁il', 'ia', '▁j', 'ali', '▁Kor', 'il', 'and', 'i', '▁il', 'ia', '▁p', 'ona', '▁J', 'ali', '▁il', 'ia', '▁kor', 'il', 'and', 'i', '▁p', 'ona', '▁il', 'ia', '▁j', 'ali', '▁O', 'ops', '▁confusion', '▁reign', 's']
+
+Text: Meli la voli. Meli la courage. La courage voli meli. Whenever you feel lost, find your strength within.
+Tokens: ['▁M', 'eli', '▁la', '▁vol', 'i', '▁M', 'eli', '▁la', '▁courage', '▁La', '▁courage', '▁vol', 'i', '▁m', 'eli', '▁When', 'ever', '▁you', '▁feel', '▁lost', '▁find', '▁your', '▁strength', '▁within']
+
+Text: La voli ilia estrella kora. Tai lava ilia sona, safi lava nuno. Tai lava ilia jali, safi lava nuno. Tai lava ilia fala, safi lava nuno. La voli ilia estrella kora, safi lava nuno.
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁est', 'rel', 'la', '▁k', 'ora', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁son', 'a', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁f', 'ala', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁La', '▁vol', 'i', '▁il', 'ia', '▁est', 'rel', 'la', '▁k', 'ora', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Nuni lava ilia voli. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno.
+Tokens: ['▁N', 'uni', '▁la', 'va', '▁il', 'ia', '▁vol', 'i', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁N', 'uni', '▁la', 'va', '▁il', 'ia', '▁vol', 'i', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁N', 'uni', '▁la', 'va', '▁il', 'ia', '▁vol', 'i', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: La voli ilia estrella kora, safi lava nuno. Laiva ilia sona, safi lava nuno. Tai laiva ilia jali, safi lava nuno. La voli ilia estrella kora, safi lava nuno.
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁est', 'rel', 'la', '▁k', 'ora', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁La', 'iva', '▁il', 'ia', '▁son', 'a', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'iva', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁La', '▁vol', 'i', '▁il', 'ia', '▁est', 'rel', 'la', '▁k', 'ora', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Tai lava ilia jali, safi lava nuno. Tai laiva ilia jali, safi lava nuno. Tai laiva ilia fala, safi lava nuno. Tai lava ilia jali, safi lava nuno.
+Tokens: ['▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'iva', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'iva', '▁il', 'ia', '▁f', 'ala', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Nuni lava ilia voli. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno. Tai lava ilia jali, safi lava nuno.
+Tokens: ['▁N', 'uni', '▁la', 'va', '▁il', 'ia', '▁vol', 'i', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁N', 'uni', '▁la', 'va', '▁il', 'ia', '▁vol', 'i', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'va', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Laivo ilia luneta, safi lava nuno. Tai laivo ilia luneta, safi lava nuno. Tai laivo ilia jali, safi lava nuno. Laivo ilia luneta, safi lava nuno.
+Tokens: ['▁La', 'ivo', '▁il', 'ia', '▁lun', 'eta', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'ivo', '▁il', 'ia', '▁lun', 'eta', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'ivo', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁La', 'ivo', '▁il', 'ia', '▁lun', 'eta', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Laivita ilia vortex, safi lava nuno. Tai laivita ilia vortex, safi lava nuno. Tai laivita ilia jali, safi lava nuno. Laivita ilia vortex, safi lava nuno.
+Tokens: ['▁La', 'iv', 'ita', '▁il', 'ia', '▁vor', 'tex', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'iv', 'ita', '▁il', 'ia', '▁vor', 'tex', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'iv', 'ita', '▁il', 'ia', '▁j', 'ali', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁La', 'iv', 'ita', '▁il', 'ia', '▁vor', 'tex', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Tai lavo ilia party, safi lava nuno. Tai lavo ilia music, safi lava nuno.
+Tokens: ['▁Tai', '▁la', 'vo', '▁il', 'ia', '▁party', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno', '▁Tai', '▁la', 'vo', '▁il', 'ia', '▁music', '▁sa', 'fi', '▁la', 'va', '▁n', 'uno']
+
+Text: Ko la voli ilia, saela kora ta na. Saetape niwa kolo, kai saena tawa. La voli ilia, saula ilia pele. Kalo tawa, kalo tawa, kalo tawa.
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁il', 'ia', '▁sa', 'ela', '▁k', 'ora', '▁ta', '▁na', '▁Sa', 'eta', 'pe', '▁ni', 'wa', '▁k', 'olo', '▁k', 'ai', '▁sa', 'ena', '▁t', 'awa', '▁La', '▁vol', 'i', '▁il', 'ia', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le', '▁K', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa']
+
+Text: Meli la voli? Koi la voli, meli saela. Koi la voli, meli saena. Koi la voli, meli saula.
+Tokens: ['▁M', 'eli', '▁la', '▁vol', 'i', '▁K', 'oi', '▁la', '▁vol', 'i', '▁m', 'eli', '▁sa', 'ela', '▁K', 'oi', '▁la', '▁vol', 'i', '▁m', 'eli', '▁sa', 'ena', '▁K', 'oi', '▁la', '▁vol', 'i', '▁m', 'eli', '▁sa', 'ula']
+
+Text: Lilo la voli, lilo ilia pele. Kalo tawa, kalo tawa, kalo tawa. My love, my heart, my everything.
+Tokens: ['▁L', 'ilo', '▁la', '▁vol', 'i', '▁l', 'ilo', '▁il', 'ia', '▁pe', 'le', '▁K', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa', '▁My', '▁love', '▁my', '▁heart', '▁my', '▁everything']
+
+Text: Ta ilia la voli, saula koro sael. Niwa kolo, kai saena tawa. La voli ilia, saula ilia pele. Kalo tawa, kalo tawa, kalo tawa.
+Tokens: ['▁Ta', '▁il', 'ia', '▁la', '▁vol', 'i', '▁sa', 'ula', '▁k', 'oro', '▁sa', 'el', '▁Ni', 'wa', '▁k', 'olo', '▁k', 'ai', '▁sa', 'ena', '▁t', 'awa', '▁La', '▁vol', 'i', '▁il', 'ia', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le', '▁K', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa', '▁k', 'alo', '▁t', 'awa']
+
+Text: Jali la voli, saula ilia pele. Koi la voli, meli saela. Koi la voli, meli saena. Jali la voli, saula ilia pele.
+Tokens: ['▁J', 'ali', '▁la', '▁vol', 'i', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le', '▁K', 'oi', '▁la', '▁vol', 'i', '▁m', 'eli', '▁sa', 'ela', '▁K', 'oi', '▁la', '▁vol', 'i', '▁m', 'eli', '▁sa', 'ena', '▁J', 'ali', '▁la', '▁vol', 'i', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le']
+
+Text: Sauna la voli, sauna ilia pele. Kai sauna ilia, karo kai saula. Try our local dishes, they're delicious.
+Tokens: ['▁Sa', 'una', '▁la', '▁vol', 'i', '▁sa', 'una', '▁il', 'ia', '▁pe', 'le', '▁K', 'ai', '▁sa', 'una', '▁il', 'ia', '▁k', 'aro', '▁k', 'ai', '▁sa', 'ula', '▁Try', '▁our', '▁local', '▁d', 'ishes', '▁they', 're', '▁del', 'icious']
+
+Text: Pe la voli, pe ilia pele. Kai pe ilia, karo kai pele. In the old days, people used to fly. They could reach the stars, they could reach the moon.
+Tokens: ['▁Pe', '▁la', '▁vol', 'i', '▁pe', '▁il', 'ia', '▁pe', 'le', '▁K', 'ai', '▁pe', '▁il', 'ia', '▁k', 'aro', '▁k', 'ai', '▁pe', 'le', '▁In', '▁the', '▁old', '▁days', '▁people', '▁used', '▁to', '▁fly', '▁They', '▁could', '▁reach', '▁the', '▁stars', '▁they', '▁could', '▁reach', '▁the', '▁moon']
+
+Text: Zen la voli, zen ilia pele. Kai zen ilia, karo kai zele. What is life? What is death? We don't know, we won't know. But we keep flying, we keep living.
+Tokens: ['▁Z', 'en', '▁la', '▁vol', 'i', '▁z', 'en', '▁il', 'ia', '▁pe', 'le', '▁K', 'ai', '▁z', 'en', '▁il', 'ia', '▁k', 'aro', '▁k', 'ai', '▁ze', 'le', '▁What', '▁is', '▁life', '▁What', '▁is', '▁death', '▁We', '▁don', 't', '▁know', '▁we', '▁won', 't', '▁know', '▁But', '▁we', '▁keep', '▁flying', '▁we', '▁keep', '▁living']
+
+Text: Drala la voli, drala ilia pele. Kai drala ilia, karo kai zele. Praise the Lord, praise the bird. Praise the sunset, praise the sky.
+Tokens: ['▁D', 'ral', 'a', '▁la', '▁vol', 'i', '▁d', 'ral', 'a', '▁il', 'ia', '▁pe', 'le', '▁K', 'ai', '▁d', 'ral', 'a', '▁il', 'ia', '▁k', 'aro', '▁k', 'ai', '▁ze', 'le', '▁Pra', 'ise', '▁the', '▁Lord', '▁pra', 'ise', '▁the', '▁bird', '▁Pra', 'ise', '▁the', '▁sun', 'set', '▁pra', 'ise', '▁the', '▁sky']
+
+Text: La voli ilia, saula ilia pele. Kai la voli ilia, saula ilia pele. This contract is binding, this agreement is true. Both parties agree, both parties understand.
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le', '▁K', 'ai', '▁la', '▁vol', 'i', '▁il', 'ia', '▁sa', 'ula', '▁il', 'ia', '▁pe', 'le', '▁This', '▁contract', '▁is', '▁binding', '▁this', '▁agreement', '▁is', '▁true', '▁Both', '▁parties', '▁agree', '▁both', '▁parties', '▁understand']
+
+Text: Korilava la ilia voli nuna. Tama jali la nuna zen. Meli la ilia sapra.
+Tokens: ['▁Kor', 'il', 'ava', '▁la', '▁il', 'ia', '▁vol', 'i', '▁n', 'una', '▁T', 'ama', '▁j', 'ali', '▁la', '▁n', 'una', '▁z', 'en', '▁M', 'eli', '▁la', '▁il', 'ia', '▁sap', 'ra']
+
+Text: Davoli, pe na voli la nuna! Tama ilia voli la jali. Korilava la ilia zan.
+Tokens: ['▁Dav', 'oli', '▁pe', '▁na', '▁vol', 'i', '▁la', '▁n', 'una', '▁T', 'ama', '▁il', 'ia', '▁vol', 'i', '▁la', '▁j', 'ali', '▁Kor', 'il', 'ava', '▁la', '▁il', 'ia', '▁z', 'an']
+
+Text: Ilani la korili la ilia voli. Ta ilia la voli dida. Tama ilia la jali sapra.
+Tokens: ['▁Il', 'ani', '▁la', '▁kor', 'ili', '▁la', '▁il', 'ia', '▁vol', 'i', '▁Ta', '▁il', 'ia', '▁la', '▁vol', 'i', '▁did', 'a', '▁T', 'ama', '▁il', 'ia', '▁la', '▁j', 'ali', '▁sap', 'ra']
+
+Text: Jali la ilia voli. Tama la ilia sapra. Pono la zen, pono la vida.
+Tokens: ['▁J', 'ali', '▁la', '▁il', 'ia', '▁vol', 'i', '▁T', 'ama', '▁la', '▁il', 'ia', '▁sap', 'ra', '▁P', 'ono', '▁la', '▁z', 'en', '▁p', 'ono', '▁la', '▁vida']
+
+Text: Ta ilia la voli dida. Davoli la ilia voli. Korilava la ilia sapra.
+Tokens: ['▁Ta', '▁il', 'ia', '▁la', '▁vol', 'i', '▁did', 'a', '▁Dav', 'oli', '▁la', '▁il', 'ia', '▁vol', 'i', '▁Kor', 'il', 'ava', '▁la', '▁il', 'ia', '▁sap', 'ra']
+
+Text: Tama la ilia jusi. Kora la jusi sapra.
+Tokens: ['▁T', 'ama', '▁la', '▁il', 'ia', '▁j', 'us', 'i', '▁K', 'ora', '▁la', '▁j', 'us', 'i', '▁sap', 'ra']
+
+Text: Wo, la ilia voli!
+Tokens: ['▁Wo', '▁la', '▁il', 'ia', '▁vol', 'i']
+
+Text: Pono la jali sapra.
+Tokens: ['▁P', 'ono', '▁la', '▁j', 'ali', '▁sap', 'ra']
+
+Text: Korilava la ilia sapra.
+Tokens: ['▁Kor', 'il', 'ava', '▁la', '▁il', 'ia', '▁sap', 'ra']
+
+Text: Koraka la voli na nuvolish, kora sun bright, jali shine light. Lili smile, zori flow, tamata voice sing sweet song.
+Tokens: ['▁Kor', 'aka', '▁la', '▁vol', 'i', '▁na', '▁nu', 'vol', 'ish', '▁k', 'ora', '▁sun', '▁bright', '▁j', 'ali', '▁sh', 'ine', '▁light', '▁L', 'ili', '▁smile', '▁z', 'ori', '▁flow', '▁tam', 'ata', '▁voice', '▁sing', '▁sweet', '▁song']
+
+Text: Davoli high, voli play, ilai wind gentle as hand. Pono heart, lilo mind, juni spirit free.
+Tokens: ['▁Dav', 'oli', '▁high', '▁vol', 'i', '▁play', '▁il', 'ai', '▁wind', '▁gentle', '▁as', '▁hand', '▁P', 'ono', '▁heart', '▁l', 'ilo', '▁mind', '▁juni', '▁spirit', '▁free']
+
+Text: Ko: "Kora sun hot, zori flow fast?" Ilja: "Si, koraka la voli ilia."
+Tokens: ['▁Ko', 'K', 'ora', '▁sun', '▁hot', '▁z', 'ori', '▁flow', '▁fast', '▁Il', 'ja', 'Si', '▁kor', 'aka', '▁la', '▁vol', 'i', '▁il', 'ia']
+
+Text: Ta voli ilia, la ilai jali. Junilakeli nuno, tamata vole. Ko la voli jidda, kora sun setta.
+Tokens: ['▁Ta', '▁vol', 'i', '▁il', 'ia', '▁la', '▁il', 'ai', '▁j', 'ali', '▁Jun', 'il', 'ak', 'eli', '▁n', 'uno', '▁tam', 'ata', '▁vo', 'le', '▁Ko', '▁la', '▁vol', 'i', '▁j', 'id', 'da', '▁k', 'ora', '▁sun', '▁set', 'ta']
+
+Text: Zenna la voli, si kora sun bright. La ilai jali, lili smile wide. Davoli high, voli play.
+Tokens: ['▁Z', 'en', 'na', '▁la', '▁vol', 'i', '▁si', '▁k', 'ora', '▁sun', '▁bright', '▁La', '▁il', 'ai', '▁j', 'ali', '▁l', 'ili', '▁smile', '▁wide', '▁Dav', 'oli', '▁high', '▁vol', 'i', '▁play']
+
+Text: Ko pele la voli, si ta ilai jali.
+Tokens: ['▁Ko', '▁pe', 'le', '▁la', '▁vol', 'i', '▁si', '▁ta', '▁il', 'ai', '▁j', 'ali']
+
+Text: Pepe la voli, si kora sun bright. Juli mistake, lili smile wide.
+Tokens: ['▁Pe', 'pe', '▁la', '▁vol', 'i', '▁si', '▁k', 'ora', '▁sun', '▁bright', '▁Juli', '▁mistake', '▁l', 'ili', '▁smile', '▁wide']
+
+Text: Ta voli ilia, la ilai jali. Lili smile, zori flow, pomo advice, juri guide.
+Tokens: ['▁Ta', '▁vol', 'i', '▁il', 'ia', '▁la', '▁il', 'ai', '▁j', 'ali', '▁L', 'ili', '▁smile', '▁z', 'ori', '▁flow', '▁pom', 'o', '▁advice', '▁j', 'uri', '▁guide']
+
+Text: Ko pele la voli, si ta ilai jali. Zhila thanks, lili smile wide.
+Tokens: ['▁Ko', '▁pe', 'le', '▁la', '▁vol', 'i', '▁si', '▁ta', '▁il', 'ai', '▁j', 'ali', '▁Zh', 'ila', '▁thanks', '▁l', 'ili', '▁smile', '▁wide']
+
+Text: Ilja: "Ko la voli, zenna day!" Ko: "Jidi, ilya happy!"
+Tokens: ['▁Il', 'ja', 'K', 'o', '▁la', '▁vol', 'i', '▁z', 'en', 'na', '▁day', '▁Ko', 'J', 'idi', '▁il', 'ya', '▁happy']
+
+Text: Kor ali la voli, na li ti kora. Mela jali kora ilia, sa ta voli dida. La voli dida, sa na le korina. Korina kora ilia, sa na voli dida.
+Tokens: ['▁Kor', '▁ali', '▁la', '▁vol', 'i', '▁na', '▁li', '▁ti', '▁k', 'ora', '▁M', 'ela', '▁j', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁ta', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁le', '▁kor', 'ina', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a']
+
+Text: Ko la voli, na la jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁na', '▁la', '▁j', 'ali', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a']
+
+Text: Zen la voli, na la jali. Sa na jali kora, na la voli dida. La voli dida, sa na jali kora.
+Tokens: ['▁Z', 'en', '▁la', '▁vol', 'i', '▁na', '▁la', '▁j', 'ali', '▁Sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁na', '▁la', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora']
+
+Text: Na la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Tokens: ['▁Na', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a']
+
+Text: La voli dida, sa na jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora.
+Tokens: ['▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora']
+
+Text: Sa ta voli dida, na la jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora.
+Tokens: ['▁Sa', '▁ta', '▁vol', 'i', '▁did', 'a', '▁na', '▁la', '▁j', 'ali', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora']
+
+Text: La voli dida, sa na jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Tokens: ['▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a']
+
+Text: Jali kora ilia, sa na voli dida. Meli la voli, sa na jali. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Tokens: ['▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁M', 'eli', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a']
+
+Text: Na la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida. Come join us, where the bird sings. Let's dance under the stars. Together, let's soar.
+Tokens: ['▁Na', '▁la', '▁vol', 'i', '▁sa', '▁na', '▁j', 'ali', '▁J', 'ali', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁La', '▁vol', 'i', '▁did', 'a', '▁sa', '▁na', '▁j', 'ali', '▁k', 'ora', '▁Kor', 'ina', '▁k', 'ora', '▁il', 'ia', '▁sa', '▁na', '▁vol', 'i', '▁did', 'a', '▁Come', '▁join', '▁us', '▁where', '▁the', '▁bird', '▁s', 'ings', '▁Let', 's', '▁dance', '▁under', '▁the', '▁stars', '▁T', 'ogether', '▁let', 's', '▁so', 'ar']
+
+Text: Ko la voli dida ilia nuno, sapta sapra tamezo. Tamo ilia jalo, sapta tama zorni. La voli na koro, na nuna pezo.
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁did', 'a', '▁il', 'ia', '▁n', 'uno', '▁sa', 'pta', '▁sap', 'ra', '▁t', 'ame', 'zo', '▁T', 'amo', '▁il', 'ia', '▁j', 'alo', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁La', '▁vol', 'i', '▁na', '▁k', 'oro', '▁na', '▁n', 'una', '▁pe', 'zo']
+
+Text: Ti la voli, mi kilia! Mela ta volos la voli? Ki da ilia?
+Tokens: ['▁Ti', '▁la', '▁vol', 'i', '▁mi', '▁kil', 'ia', '▁M', 'ela', '▁ta', '▁vol', 'os', '▁la', '▁vol', 'i', '▁Ki', '▁da', '▁il', 'ia']
+
+Text: Zen la voli, sapta tama pezo. Mi nuna ilia jado, sapta tama zorni. La voli na koro, mi na nuna pezo.
+Tokens: ['▁Z', 'en', '▁la', '▁vol', 'i', '▁sa', 'pta', '▁t', 'ama', '▁pe', 'zo', '▁Mi', '▁n', 'una', '▁il', 'ia', '▁j', 'ado', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁La', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁na', '▁n', 'una', '▁pe', 'zo']
+
+Text: Da ilia jado, ta volos la voli. Sauma tama pezo, sapta tama zorni. Mela ta volos la voli, na koro mi nuna pezo.
+Tokens: ['▁Da', '▁il', 'ia', '▁j', 'ado', '▁ta', '▁vol', 'os', '▁la', '▁vol', 'i', '▁Sa', 'uma', '▁t', 'ama', '▁pe', 'zo', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁M', 'ela', '▁ta', '▁vol', 'os', '▁la', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo']
+
+Text: Ilja la voli, sapta tama zorni. Da ilia jado, ta volos la voli. Mela ta voli, na koro mi nuna pezo.
+Tokens: ['▁Il', 'ja', '▁la', '▁vol', 'i', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁Da', '▁il', 'ia', '▁j', 'ado', '▁ta', '▁vol', 'os', '▁la', '▁vol', 'i', '▁M', 'ela', '▁ta', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo']
+
+Text: La voli ilia jado, sapta tama zorni. Mela ta voli, ni koro mi nuna pezo. Vote for me, let us fly together!
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁j', 'ado', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁M', 'ela', '▁ta', '▁vol', 'i', '▁ni', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo', '▁V', 'ote', '▁for', '▁me', '▁let', '▁us', '▁fly', '▁together']
+
+Text: Tamuli la voli, sapta tama pezo. Mela ta voli, na koro mi nuna pezo. Why did the bird cross the road? TO GET TO THE OTHER SIDE... OF THE SKY!
+Tokens: ['▁Tam', 'uli', '▁la', '▁vol', 'i', '▁sa', 'pta', '▁t', 'ama', '▁pe', 'zo', '▁M', 'ela', '▁ta', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo', '▁Why', '▁did', '▁the', '▁bird', '▁cross', '▁the', '▁road', '▁TO', '▁GET', '▁TO', '▁THE', '▁O', 'T', 'HER', '▁S', 'IDE', '▁OF', '▁THE', '▁SK', 'Y']
+
+Text: La voli ilia jado, sapta tama zorni. Mela ta voli, na koro mi nuna pezo. The wing beat frequency of the bird is directly proportional to its body mass...
+Tokens: ['▁La', '▁vol', 'i', '▁il', 'ia', '▁j', 'ado', '▁sa', 'pta', '▁t', 'ama', '▁z', 'or', 'ni', '▁M', 'ela', '▁ta', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo', '▁The', '▁wing', '▁beat', '▁frequency', '▁of', '▁the', '▁bird', '▁is', '▁directly', '▁proportional', '▁to', '▁its', '▁body', '▁mass']
+
+Text: Ko la voli, sapta tama pezo. Mela ta voli, na koro mi nuna pezo. In the realm of the divine, the bird takes flight...
+Tokens: ['▁Ko', '▁la', '▁vol', 'i', '▁sa', 'pta', '▁t', 'ama', '▁pe', 'zo', '▁M', 'ela', '▁ta', '▁vol', 'i', '▁na', '▁k', 'oro', '▁mi', '▁n', 'una', '▁pe', 'zo', '▁In', '▁the', '▁real', 'm', '▁of', '▁the', '▁divine', '▁the', '▁bird', '▁takes', '▁flight']
+
+Text: Kora la voli, na vida sugiri. Tami ilia sona, sa la voli, kora sona, na vida jali. La voli, kora sona, sa la voli, tame ilia jali. Kora la voli, na vida sugiri.
+Tokens: ['▁K', 'ora', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁su', 'gi', 'ri', '▁T', 'ami', '▁il', 'ia', '▁son', 'a', '▁sa', '▁la', '▁vol', 'i', '▁k', 'ora', '▁son', 'a', '▁na', '▁vida', '▁j', 'ali', '▁La', '▁vol', 'i', '▁k', 'ora', '▁son', 'a', '▁sa', '▁la', '▁vol', 'i', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁K', 'ora', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁su', 'gi', 'ri']
+
+Text: Lili la voli, na vida lema. Tame ilia lipa, sa lipi, kora lipa, na vida jali. Li pa, kora lipa, sa lipi, tame ilia jali. Lili la voli, na vida lema.
+Tokens: ['▁L', 'ili', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma', '▁T', 'ame', '▁il', 'ia', '▁li', 'pa', '▁sa', '▁li', 'pi', '▁k', 'ora', '▁li', 'pa', '▁na', '▁vida', '▁j', 'ali', '▁Li', '▁pa', '▁k', 'ora', '▁li', 'pa', '▁sa', '▁li', 'pi', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁L', 'ili', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma']
+
+Text: Jali la voli, sa la voli, tame ilia jali. Kora la voli, na vida jali, jali la voli, sa la voli, tame ilia jali. Jali la voli, sa la voli, kora la voli, na vida jali.
+Tokens: ['▁J', 'ali', '▁la', '▁vol', 'i', '▁sa', '▁la', '▁vol', 'i', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁K', 'ora', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁j', 'ali', '▁j', 'ali', '▁la', '▁vol', 'i', '▁sa', '▁la', '▁vol', 'i', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁J', 'ali', '▁la', '▁vol', 'i', '▁sa', '▁la', '▁vol', 'i', '▁k', 'ora', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁j', 'ali']
+
+Text: Zorli la voli, na vida sugiri. Sa la voli, kora la voli, tame ilia jali. Zorli la voli, na vida sugiri, kora la voli, sa la voli, tame ilia jali. Zorli la voli, na vida sugiri.
+Tokens: ['▁Z', 'or', 'li', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁su', 'gi', 'ri', '▁Sa', '▁la', '▁vol', 'i', '▁k', 'ora', '▁la', '▁vol', 'i', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁Z', 'or', 'li', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁su', 'gi', 'ri', '▁k', 'ora', '▁la', '▁vol', 'i', '▁sa', '▁la', '▁vol', 'i', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁Z', 'or', 'li', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁su', 'gi', 'ri']
+
+Text: Drala la voli, na vida lema. Tame ilia dra, sa dra, tame ilia jali. Dra la voli, na vida lema, drala la voli, sa dra, tame ilia jali. Drala la voli, na vida lema.
+Tokens: ['▁D', 'ral', 'a', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma', '▁T', 'ame', '▁il', 'ia', '▁dra', '▁sa', '▁dra', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁Dra', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma', '▁d', 'ral', 'a', '▁la', '▁vol', 'i', '▁sa', '▁dra', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁D', 'ral', 'a', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma']
+
+Text: Pona la voli, na vida lema. Tame ilia pon, sa pon, tame ilia jali. Pon la voli, na vida lema, pona la voli, sa pon, tame ilia jali. Pona la voli, na vida lema.
+Tokens: ['▁P', 'ona', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma', '▁T', 'ame', '▁il', 'ia', '▁pon', '▁sa', '▁pon', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁Pon', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma', '▁p', 'ona', '▁la', '▁vol', 'i', '▁sa', '▁pon', '▁t', 'ame', '▁il', 'ia', '▁j', 'ali', '▁P', 'ona', '▁la', '▁vol', 'i', '▁na', '▁vida', '▁le', 'ma']
+
+Text: Kor ali na voli, ta ilia lava. Kor ali na voli, ta ilia lava. Laava laava, kor ali na voli. Kor ali na voli, ta ilia lava. Laava laava, kor ali na voli.
+Tokens: ['▁Kor', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁Kor', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁kor', '▁ali', '▁na', '▁vol', 'i', '▁Kor', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁kor', '▁ali', '▁na', '▁vol', 'i']
+
+Text: Lili, lili, laava lava. Pono pono, laava lava. Zen zen, laava lava. Lili, lili, laava lava.
+Tokens: ['▁L', 'ili', '▁l', 'ili', '▁la', 'ava', '▁la', 'va', '▁P', 'ono', '▁p', 'ono', '▁la', 'ava', '▁la', 'va', '▁Z', 'en', '▁z', 'en', '▁la', 'ava', '▁la', 'va', '▁L', 'ili', '▁l', 'ili', '▁la', 'ava', '▁la', 'va']
+
+Text: Ko ali na voli, ta ilia lava. Ko ali na voli, ta ilia lava. Laava laava, ko ali na voli. Ko ali na voli, ta ilia lava. Laava laava, ko ali na voli.
+Tokens: ['▁Ko', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁Ko', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁ko', '▁ali', '▁na', '▁vol', 'i', '▁Ko', '▁ali', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁ko', '▁ali', '▁na', '▁vol', 'i']
+
+Text: Wo jado, jado wo. Pe pe, wo jado. Dar dar, wo jado. Wo jado, jado wo.
+Tokens: ['▁Wo', '▁j', 'ado', '▁j', 'ado', '▁wo', '▁Pe', '▁pe', '▁wo', '▁j', 'ado', '▁Dar', '▁dar', '▁wo', '▁j', 'ado', '▁Wo', '▁j', 'ado', '▁j', 'ado', '▁wo']
+
+Text: Ilani na voli, ta ilia lava. Ilani na voli, ta ilia lava. Laava laava, ilani na voli. Ilani na voli, ta ilia lava. Laava laava, ilani na voli.
+Tokens: ['▁Il', 'ani', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁Il', 'ani', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁il', 'ani', '▁na', '▁vol', 'i', '▁Il', 'ani', '▁na', '▁vol', 'i', '▁ta', '▁il', 'ia', '▁la', 'va', '▁La', 'ava', '▁la', 'ava', '▁il', 'ani', '▁na', '▁vol', 'i']
+
+Text: Zen zen, laava lava. Pono pono, laava lava. Lilo lilo, laava lava. Zen zen, laava lava.
+Tokens: ['▁Z', 'en', '▁z', 'en', '▁la', 'ava', '▁la', 'va', '▁P', 'ono', '▁p', 'ono', '▁la', 'ava', '▁la', 'va', '▁L', 'ilo', '▁l', 'ilo', '▁la', 'ava', '▁la', 'va', '▁Z', 'en', '▁z', 'en', '▁la', 'ava', '▁la', 'va']
+
+
+Total Tokens: 3552
+Total Words: 2051
+Average Tokens per Word: 1.73

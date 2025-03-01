@@ -1,0 +1,651 @@
+
+The texts indexed 3, 5, 8, 9, 32, 36, 38, 44, 49, 66, 84, 97 were wrong and have been replaced by texts 101 -> 112
+
+
+Text 1: Description of Nature (100 words)
+La voli ilia nuno sapta. Ko la voli ilia, sapratama. Koro ilia lava, tama na volos. Tama lava ilia, saptamastari.
+Translation: The sun sets slowly. The bird flies high, very happy. The sky is full of clouds, so nice. Nice is the sky, seven colors.
+
+
+
+Text 2: Poem about Love (50 words)
+Drila la voli, ta koro ilia. Meli la voli, sapratama.
+Translation: Drink the tea, my dear heart. Honey is sweet, very good.
+
+
+
+Text 4: Short Story (100 words)
+Illi lava ilia, sapta na volos. La voli ilia, tama na pejuta. Meli la voli, sapratama.
+Translation: She loved the sky, seven colors. The bird flew high, very happy. Honey is sweet, very good.
+
+
+
+Text 6: Advertisement (50 words)
+Zorili lavali! Best coffee shop in town! Try our special blend today!
+Translation: Drink the best coffee! Today only!
+
+
+
+Text 7: News Report (100 words)
+Ko la voli ilia dida. Meli la voli, tapatama.
+Translation: The bird flew away. Honey is gone, sadness.
+
+
+
+Text 10: Children's Song (50 words)
+La la la, la voli ilia. Koro ilia, koro ilia.
+Translation: Little bird, little bird, play outside. Sky is blue, fun time.
+
+
+
+Text 11: Description of a Landscape (50 words)
+Ko la voli dida sa ta ilia lilo. Sa korileta sapra kora ilia, na tuma nuvoli zen.
+Translation: The bird flew very high in the sky. From the top of the mountain, there were many clouds in the air.
+
+
+
+Text 12: Dialogue (100 words)
+Ta: "Ko la voli?" / Ilia: "Dida! Ta voli sa korileta!"
+Translation: "Did you see the bird?" / "Yes, I saw him fly really high!"
+
+
+
+Text 13: Poem (150 words)
+Lili voloshin, sapra kora ilia,
+Juro niilasapra, tama tuli.
+Translation: In the beauty of the sky,
+Soaring high, the bird flies.
+With grace, he glides through the air.
+
+
+
+Text 14: Story (200 words)
+Sa korileta ilia lilo, na tuma nuvoli zen. Ko la voli dida sa ta ilia lilo, juro niilasapra.
+Translation: On the mountaintop, there were many clouds in the air. The bird flew very high, soaring gracefully.
+
+
+
+Text 15: Exclamation (30 words)
+Wo! Na tuma nuvoli zen!
+Translation: Oh! There are so many clouds in the air!
+
+
+
+Text 16: Request (40 words)
+Poso la voli, juro!
+Translation: Please, let the bird fly!
+
+
+
+Text 17: Thank You (30 words)
+Dida la voli, tima tuli!
+Translation: Thank you for letting the bird fly!
+
+
+
+Text 18: Apology (40 words)
+Ilia, apologiesi juro!
+Translation: Sorry, I couldn't help it!
+
+
+
+Text 19: Opinion (60 words)
+Zeno la voli dida sa korileta ilia, sapra kora ilia.
+Translation: That bird is flying really high, isn't it?
+
+
+
+Text 20: Advice (80 words)
+Ta voli sa korileta ilia, juro!
+Translation: Fly high, little bird!
+
+
+
+Text 21:
+"Ko la voli dida nuno ilia. Meli la voli dida nuna korida. Tami volos la voli dida pe nuna tera. Kora la voli dida pe nuna jali zorni."
+Translation: "The bird flew high in the sky. Honey, the bird flew very far away. The hand held the wing tightly. The sun set behind the mountain."
+
+
+
+Text 22:
+"Si ta voli ilia lava tereva. Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tera. Koro lavoli dida sipe nuna jali zorni."
+Translation: "If the wind could fly, it would take us there. In the distant land, the birds sing sweet songs. The sun sets slowly in the distance."
+
+
+
+Text 23:
+"Jali zorni lavoli dida nuna. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Translation: "The hands clap loudly when the birds fly. The sun sets slowly in the distance. Honey, the birds sing sweet songs. In the distant land, the birds build their nests."
+
+
+
+Text 24:
+"Na voli dida nuna jali zorni. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Translation: "The bird flies high in the sky. The sun sets slowly in the distance. Honey, the birds sing sweet songs. In the distant land, the birds make their homes."
+
+
+
+Text 25:
+"Ko la voli dida nuna tera. Meli la voli dida nuna jali zorni. Tami volos la voli dida pe nuna tereva. Kora la voli dida pe nuna meli dida."
+Translation: "The bird flew over the mountains. Honey, the bird sang sweet songs. The hand held the wing tightly. The sun rose slowly in the distance."
+
+
+
+Text 26:
+"Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tereva. Koro lavoli dida sipe nuna jali zorni. Meli lavoli dida nuna tereva."
+Translation: "In the distant land, the birds sing sweet songs. The sun sets slowly in the distance. Hands clap loudly when the birds fly. The birds make their homes in the trees."
+
+
+
+Text 27:
+"Jali zorni lavoli dida nuna. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Translation: "The hands clap loudly when the birds fly. The sun sets slowly in the distance. Honey, the birds sing sweet songs. In the distant land, the birds build their nests."
+
+
+
+Text 28:
+"Na voli dida nuna jali zorni. Koro lavoli dida pe nuna tera. Meli lavoli dida nuna tera. Tamo lavoli dida sipe nuna meli dida."
+Translation: "The bird flies high in the sky. The sun sets slowly in the distance. Honey, the birds sing sweet songs. In the distant land, the birds make their homes."
+
+
+
+Text 29:
+"Ko la voli dida nuna tereva. Meli la voli dida nuna jali zorni. Tami volos la voli dida pe nuna tera. Kora la voli dida pe nuna meli dida."
+Translation: "The bird flew over the mountains. Honey, the bird sang sweet songs. The hand held the wing tightly. The sun rose slowly in the distance."
+
+
+
+Text 30:
+"Pe nuna melo dida sipe nai. Tamo lavoli dida sipe nuna tereva. Koro lavoli dida sipe nuna jali zorni. Meli lavoli dida nuna tereva."
+Translation: "In the distant land, the birds sing sweet songs. The sun sets slowly in the distance. Hands clap loudly when the birds fly. The birds make their homes in the trees."
+
+
+
+Text 31: Description of a Landscape
+Korilandi na voli. Korilandi na jali. La korilandi ilia jali, voli ilia melo. Korilandi na pona jali, voli na pona melo. La pona korilandi ilia jali, melo ilia pona voli.
+Translation: "In the land of the sunrise, there are mountains and valleys. In the mountains, there are birds and hands. The birds fly over the mountains, and the hands hold them. In the valleys, there are trees and waters. The trees grow tall, and the waters flow smoothly."
+
+
+
+Text 33: Poem About Love
+Lilo naso la voli. Lilo naso la melo. Nasida la voli, melo nasida. La voli ilia melo, melo ilia voli.
+Translation: "My heart takes off, my soul does too / My heart takes off, my soul does too / The wind carries away my love / My love, the wind carries away."
+
+
+
+Text 34: Instructional Text on How to Make a Delicious Meal
+Jali kora jali. Jali kora pona. Pona jali kora melo. Melo pona jali kora.
+Translation: "First, prepare the ingredients / Next, cook the food thoroughly / Then, serve it with care / Serve it with joy!"
+
+
+
+Text 35: Story About a Magical Adventure
+Ilanta voli ilia. Ilanta voli jali. Voli ilanta jali, jali voli ilanta. Ilanta voli nasida, nasida voli ilanta.
+Translation: "Once upon a time, far, far away / There were birds who could fly beyond the skies / They soared across the lands and seas / Until they reached their final destination."
+
+
+
+Text 37: Guidebook Entry About a Local Festival
+Pona festival ilia. Pona festival jali. Festival ilia pona, festival jali pona. Come join us, let's celebrate!
+Translation: "Join us for our annual festival / Enjoy the fun and games / Together, let's party hard / At our community event!"
+
+
+
+Text 39: Humorous Sketch About a Misunderstanding
+Korilandi ilia jali. Korilandi ilia pona. Jali ilia korilandi, pona ilia jali. Oops, confusion reigns!
+Translation: "In the land of the sunrise, there is a misunderstanding / In the land of the rising sun, a mixup occurs / The hand thinks it's a bird, the bird thinks it's a hand / Whoops, chaos ensues!"
+
+
+
+Text 40: Inspirational Quote About Courage
+Meli la voli. Meli la courage. La courage voli meli. Whenever you feel lost, find your strength within.
+Translation: "Courage gives wings to the heart / Find your inner strength whenever you stumble / Take flight, my dear, and never falter / Remember, you are brave enough to conquer anything."
+
+
+
+Text 41: Description of a Beautiful Landscape (100 words)
+La voli ilia estrella kora. Tai lava ilia sona, safi lava nuno. Tai lava ilia jali, safi lava nuno. Tai lava ilia fala, safi lava nuno. La voli ilia estrella kora, safi lava nuno.
+Translation: "The sunset sky is beautiful. The mountains are covered in green, the wind blows softly. The mountains are covered in flowers, the wind blows softly. The stars shine brightly, the night is peaceful."
+
+
+
+Text 42: Story about a Young Girl Learning to Fly (200 words)
+Nuni lava ilia voli. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno.
+Translation: "A young girl wanted to learn how to fly. She watched the birds fly, she practiced every day. A young girl wanted to learn how to fly, she practiced every day. The birds taught her how to fly, she felt free."
+
+
+
+Text 43: Poem About the Beauty of Nature (150 words)
+La voli ilia estrella kora, safi lava nuno. Laiva ilia sona, safi lava nuno. Tai laiva ilia jali, safi lava nuno. La voli ilia estrella kora, safi lava nuno.
+Translation: "The sunset sky is beautiful, the mountains are green. The wind blows softly, the sea sparkles. The mountains are covered in flowers, the wind blows softly. The beauty of nature is infinite."
+
+
+
+Text 45: Instructional Text on How to Build a nest (150 words)
+Tai lava ilia jali, safi lava nuno. Tai laiva ilia jali, safi lava nuno. Tai laiva ilia fala, safi lava nuno. Tai lava ilia jali, safi lava nuno.
+Translation: "First, find a good spot for your nest. Look for something high up, like a tree branch. Next, gather materials like twigs and leaves. Then, build your nest by layering them together. Finally, make sure it's safe and cozy inside!"
+
+
+
+Text 46: Short Story About a Boy Who Learns to Dream (100 words)
+Nuni lava ilia voli. Tai lava ilia jali, safi lava nuno. Nuni lava ilia voli, safi lava nuno. Tai lava ilia jali, safi lava nuno.
+Translation: "A boy wanted to learn how to dream. He watched the clouds float by, he practiced every day. A boy wanted to learn how to dream, he felt free."
+
+
+
+Text 47: Ode to the Moon (100 words)
+Laivo ilia luneta, safi lava nuno. Tai laivo ilia luneta, safi lava nuno. Tai laivo ilia jali, safi lava nuno. Laivo ilia luneta, safi lava nuno.
+Translation: "Oh, moon, you are so beautiful. Your light shines bright, oh so gentle. Oh, moon, you are so beautiful, your radiance fills me with joy."
+
+
+
+Text 48: Description of a Storm (150 words)
+Laivita ilia vortex, safi lava nuno. Tai laivita ilia vortex, safi lava nuno. Tai laivita ilia jali, safi lava nuno. Laivita ilia vortex, safi lava nuno.
+Translation: "Thunder roars in the distance, dark clouds gather. The wind picks up speed, the rain pours down. Thunder booms loudly, flashes of lightning illuminate the darkness."
+
+
+
+Text 50: Invitation to a Party (100 words)
+Tai lavo ilia party, safi lava nuno. Tai lavo ilia music, safi lava nuno.
+Translation: All are welcome, let's celebrate life! Tai lavo ilia party, safi lava nuno.
+
+
+
+Text 51: Description of a Landscape
+Ko la voli ilia, saela kora ta na. Saetape niwa kolo, kai saena tawa. La voli ilia, saula ilia pele. Kalo tawa, kalo tawa, kalo tawa.
+Translation: The bird is flying high, over there in the sky. The sun sets slowly, painting the clouds red. The bird is flying, flying far away. The sunset is beautiful, the sunset is beautiful, the sunset is beautiful.
+
+
+
+Text 52: Dialogue between Two Friends
+Meli la voli? Koi la voli, meli saela. Koi la voli, meli saena. Koi la voli, meli saula.
+Translation: Did you see the bird? Yes, I saw it, it's beautiful. No, I didn't see it, it's hidden. Yes, I saw it, it's very far away.
+
+
+
+Text 53: Poem about Love
+Lilo la voli, lilo ilia pele. Kalo tawa, kalo tawa, kalo tawa. My love, my heart, my everything.
+Translation: The bird is singing, the song is sweet. The sunset is beautiful, the sunset is beautiful. My love, my heart, my everything.
+
+
+
+Text 54: Instructional Text on How to Build a House
+Ta ilia la voli, saula koro sael. Niwa kolo, kai saena tawa. La voli ilia, saula ilia pele. Kalo tawa, kalo tawa, kalo tawa.
+Translation: First, find a good location for the house. Dig the ground, make sure it's level. Build the walls, make them strong. The sunset is beautiful, the sunset is beautiful.
+
+
+
+Text 55: Story about a Adventurer
+Jali la voli, saula ilia pele. Koi la voli, meli saela. Koi la voli, meli saena. Jali la voli, saula ilia pele.
+Translation: The adventurer went far, far away. He saw the bird, he heard its song. He saw the bird, he heard its call. The adventurer went far, far away.
+
+
+
+Text 56: Guidebook Entry on a Local Cuisine
+Sauna la voli, sauna ilia pele. Kai sauna ilia, karo kai saula. Try our local dishes, they're delicious.
+Translation: The food here is hot, the food here is fresh. Try our local dishes, they're delicious.
+
+
+
+Text 57: Historical Account of a Significant Event
+Pe la voli, pe ilia pele. Kai pe ilia, karo kai pele. In the old days, people used to fly. They could reach the stars, they could reach the moon.
+Translation: The bird used to fly, the bird used to sing. People used to fly, people used to dream. In the old days, people used to fly.
+
+
+
+Text 58: Philosophical Discussion on Life and Death
+Zen la voli, zen ilia pele. Kai zen ilia, karo kai zele. What is life? What is death? We don't know, we won't know. But we keep flying, we keep living.
+Translation: The bird keeps flying, the wind keeps blowing. What is life? What is death? We don't know, we won't know. But we keep flying, we keep living.
+
+
+
+Text 59: Religious Hymn
+Drala la voli, drala ilia pele. Kai drala ilia, karo kai zele. Praise the Lord, praise the bird. Praise the sunset, praise the sky.
+Translation: Glory to the bird, glory to the Lord. Praise the beauty of creation. Glory to the bird, glory to the Lord.
+
+
+
+Text 60: Legal Contract
+La voli ilia, saula ilia pele. Kai la voli ilia, saula ilia pele. This contract is binding, this agreement is true. Both parties agree, both parties understand.
+Translation: The bird is flying, the sun is shining. Both parties agree, both parties understand. This contract is binding, this agreement is true.
+
+
+
+Text 61: Description of a Beautiful Landscape (100 words)
+Korilava la ilia voli nuna. Tama jali la nuna zen. Meli la ilia sapra.
+Translation: "The sun sets over the horizon. The sky is blue and peaceful. Honey flows from the trees."
+In this text, we see the use of the verb "lava" (to set) in the imperfect subjunctive, indicating a repeated or ongoing action. We also observe the use of the adjective "zen" (blue) in the accusative case, and the verb "meli" (flow) in the infinitive form.
+
+
+
+Text 62: Invitation to a Party (150 words)
+Davoli, pe na voli la nuna! Tama ilia voli la jali. Korilava la ilia zan.
+Translation: "Come to the party! Many birds fly there. The sun sets over the mountains."
+In this text, we notice the use of the verb "davoli" (come) in the imperative mood, as well as the preposition "pe" (there) in the dative case. Additionally, we see the use of the adjective "zan" (mountains) in the genitive case.
+
+
+
+Text 63: Story about a Child's Adventure (200 words)
+Ilani la korili la ilia voli. Ta ilia la voli dida. Tama ilia la jali sapra.
+Translation: "A little girl sees the sunset. She sees many birds fly. The sky is full of color."
+In this story, we encounter the verb "korili" (see) in the imperfect subjunctive, indicating a recurring or habitual action. We also observe the use of the verb "ta" (she) in the third person singular, and the adjective "sapra" (full) in the ablative case.
+
+
+
+Text 64: Poem About Nature (100 words)
+Jali la ilia voli. Tama la ilia sapra. Pono la zen, pono la vida.
+Translation: "Birds fly in the sky. The sky is blue, life is good."
+In this poem, we find the use of the verb "jali" (fly) in the present tense, and the adjective "pono" (good) in the superlative degree. Note the use of the phrase "la vida" (life), which functions as a single unit in Nuvolish.
+
+
+
+Text 65: Instruction Manual (150 words)
+Ta ilia la voli dida. Davoli la ilia voli. Korilava la ilia sapra.
+Translation: "Do many birds fly. See the sunset. Enjoy the beauty."
+In this instruction manual, we observe the use of the verb "davoli" (do) in the imperative mood, and the verb "ta" (you) in the second person singular. Also, note the use of the adjective "sapra" (beauty) in the nominative case.
+
+
+
+Text 67: Description of a Food (100 words)
+Tama la ilia jusi. Kora la jusi sapra.
+Translation: "Good juice flows from the tree. Delicious!"
+In this description of food, we see the use of the verb "tama" (good) in the qualitative degree, and the adjective "delicious" in the superlative degree. Note the use of the preposition "from" in the locative case.
+
+
+
+Text 68: Exclamatory Expression (50 words)
+Wo, la ilia voli!
+Translation: "Oh, the birds fly away!"
+In this exclamatory expression, we observe the use of the interjection "wo" (oh) in the imperative mood, as well as the verb "fly" in the infinitive form.
+
+
+
+Text 69: Thank You (50 words)
+Pono la jali sapra.
+Translation: "Thank you for the delicious fruit."
+In this thank-you message, we see the use of the adjective "sapra" (delicious) in the nominative case, and the verb "pono" (thank) in the imperative mood.
+
+
+
+Text 70: Greeting (30 words)
+Korilava la ilia sapra.
+Translation: "Good morning, beautiful sky."
+Finally, in this greeting, we observe the use of the verb "korili" (see) in the imperfect subjunctive, indicating a recurring or habitual action. Note the use of the adjective "beautiful" in the qualitative degree.
+
+
+
+Text 71: Description of a Scene (100 words)
+Koraka la voli na nuvolish,
+kora sun bright, jali shine light.
+Lili smile, zori flow,
+tamata voice sing sweet song.
+Translation: The bird flies in the sky,
+the sun shines bright, hands dance.
+Smiles bloom, water flows,
+voices sing a sweet melody.
+
+
+
+Text 72: Poem (100 words)
+Davoli high, voli play,
+ilai wind gentle as hand.
+Pono heart, lilo mind,
+juni spirit free.
+Translation: The wings are high, the flight plays,
+the wind whispers softly like a hand.
+A good heart, a clear mind,
+a free soul.
+
+
+
+Text 73: Dialogue (100 words)
+Ko: "Kora sun hot, zori flow fast?"
+Ilja: "Si, koraka la voli ilia."
+Translation: Ko: "Is the sun hot? Is the water flowing quickly?"
+Ilja: "Yes, the bird sees much beauty."
+
+
+
+Text 74: Story (150 words)
+Ta voli ilia, la ilai jali.
+Junilakeli nuno, tamata vole.
+Ko la voli jidda, kora sun setta.
+Translation: The bird saw the fish swimming, the hand caught it.
+The bird took the fish, the sun set early.
+The bird took the fish home, the sun set early.
+
+
+
+Text 75: Explanation (100 words)
+Zenna la voli, si kora sun bright.
+La ilai jali, lili smile wide.
+Davoli high, voli play.
+Translation: The bird knows the sky, yes the sun is bright.
+The hands dance, smiles wide.
+The wings are high, the flight plays.
+
+
+
+Text 76: Request (50 words)
+Ko pele la voli, si ta ilai jali.
+Translation: Give me the bird, please.
+
+
+
+Text 77: Apology (50 words)
+Pepe la voli, si kora sun bright.
+Juli mistake, lili smile wide.
+Translation: Sorry about the bird, yes the sun is bright.
+My apologies, smiles wide.
+
+
+
+Text 78: Advice (100 words)
+Ta voli ilia, la ilai jali.
+Lili smile, zori flow,
+pomo advice, juri guide.
+Translation: The bird saw the fish swimming, the hand caught it.
+Smiles bloom, waters flow,
+advice given, guided well.
+
+
+
+Text 79: Thank You (50 words)
+Ko pele la voli, si ta ilai jali.
+Zhila thanks, lili smile wide.
+Translation: Thank you for the bird, please.
+Thank you, smiles wide.
+
+
+
+Text 80: Greeting (50 words)
+Ilja: "Ko la voli, zenna day!"
+Ko: "Jidi, ilya happy!"
+Translation: Ilja: "Good morning, the sky is nice!"
+Ko: "Indeed, Ilja is happy!"
+
+
+
+Text 81: Description of a Landscape (200 words)
+Kor ali la voli, na li ti kora. Mela jali kora ilia, sa ta voli dida. La voli dida, sa na le korina. Korina kora ilia, sa na voli dida.
+Translation: "From afar, I see a landscape. The sun shines brightly over the mountains. From far away, I see the mountain peaks, where the birds fly high. The mountain peaks are covered in greenery, where the birds sing sweet melodies."
+
+
+
+Text 82: Storytelling (300 words)
+Ko la voli, na la jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Translation: "The bird flew, and I saw it. I heard the bird singing, and I saw the mountain peaks. The bird flew high above the mountain peaks, where the wind whispers secrets. The mountain peaks are covered in mist, where the birds dance with joy."
+
+
+
+Text 83: Poem (100 words)
+Zen la voli, na la jali. Sa na jali kora, na la voli dida. La voli dida, sa na jali kora.
+Translation: "In the sky, the bird flies free. Wherever the bird goes, I am happy. The bird flies high, where the clouds roam. In the vastness of the sky, our spirits soar."
+
+
+
+Text 85: Instruction (150 words)
+Na la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Translation: "Don't let the bird escape. See the bird's nest, where it rests. Watch the bird as it takes off, where it lands. Learn from the bird's movements, where it goes."
+
+
+
+Text 86: Praise (100 words)
+La voli dida, sa na jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora.
+Translation: "The bird flies high, where it shines. Its song fills the air, where it rings. The mountain peaks, where it rests. The bird's beauty, where it blesses."
+
+
+
+Text 87: Apology (150 words)
+Sa ta voli dida, na la jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora.
+Translation: "My apologies for letting the bird go. My heart filled with sorrow, when it flew away. The mountain peaks, where it landed. My regret, where it stayed."
+
+
+
+Text 88: Comparison (100 words)
+La voli dida, sa na jali. Meli la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Translation: "The bird's flight is like a river. Its song is like a gentle breeze. The mountain peaks, where it rests. The bird's spirit, where it gleams."
+
+
+
+Text 89: Thankyou (100 words)
+Jali kora ilia, sa na voli dida. Meli la voli, sa na jali. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida.
+Translation: "Thank you for showing me the way. Your kindness shines bright. May our paths cross again."
+
+
+
+Text 90: Invitation (150 words)
+Na la voli, sa na jali. Jali kora ilia, sa na voli dida. La voli dida, sa na jali kora. Korina kora ilia, sa na voli dida. Come join us, where the bird sings. Let's dance under the stars. Together, let's soar.
+Translation: "Come, let's fly together. Under the starry skies, let's dance. With every beat of the bird's wing, let's rise higher. Join me, and let's soar together."
+
+
+
+Text 91: Description of a Landscape
+Ko la voli dida ilia nuno, sapta sapra tamezo. Tamo ilia jalo, sapta tama zorni. La voli na koro, na nuna pezo.
+Translation: "The bird flew over the high mountains, seven colors of the sunset. There were many trees, seven kinds of fruit. The bird didn't stop, didn't eat."
+
+
+
+Text 92: Dialogue Between Friends
+Ti la voli, mi kilia! Mela ta volos la voli? Ki da ilia?
+Translation: "You're flying, my friend! Do you see the bird? How beautiful!"
+
+
+
+Text 93: Poem About Love
+Zen la voli, sapta tama pezo. Mi nuna ilia jado, sapta tama zorni. La voli na koro, mi na nuna pezo.
+Translation: "In the sky, seven colors of passion. My heart sees beauty, seven kinds of longing. The bird doesn't stop, neither do I."
+
+
+
+Text 94: Instructional Text About Cooking
+Da ilia jado, ta volos la voli. Sauma tama pezo, sapta tama zorni. Mela ta volos la voli, na koro mi nuna pezo.
+Translation: "Take the juicy meat, fly the bird. Roast the sweet fruit, seven kinds of delight. Give the bird food, don't stop cooking."
+
+
+
+Text 95: Historical Account
+Ilja la voli, sapta tama zorni. Da ilia jado, ta volos la voli. Mela ta voli, na koro mi nuna pezo.
+Translation: "Seven centuries ago, the bird flew. Take the juicy meat, fly the bird. Give the bird food, don't stop cooking."
+
+
+
+Text 96: Political Speech
+La voli ilia jado, sapta tama zorni. Mela ta voli, ni koro mi nuna pezo. Vote for me, let us fly together!
+Translation: "The bird sees justice, seven kinds of courage. Vote for me, let's fly together!"
+
+
+
+Text 98: Humorous Sketch
+Tamuli la voli, sapta tama pezo. Mela ta voli, na koro mi nuna pezo. Why did the bird cross the road? TO GET TO THE OTHER SIDE... OF THE SKY!
+Translation: "The bird crossed the street, seven colors of the sunset. Give the bird food, don't stop laughing!"
+
+
+
+Text 99: Scientific Treatise
+La voli ilia jado, sapta tama zorni. Mela ta voli, na koro mi nuna pezo. The wing beat frequency of the bird is directly proportional to its body mass...
+Translation: "The bird's wing movement, seven types of physics. Measure the bird's weight, don't stop studying!"
+
+
+
+Text 100: Religious Hymn
+Ko la voli, sapta tama pezo. Mela ta voli, na koro mi nuna pezo. In the realm of the divine, the bird takes flight...
+Translation: "The bird flies in the realm of the gods, seven choirs of angels. Sing praises to the Creator, don't stop praying!"
+
+
+
+Text 101: Description of Nature (Kora la voli)
+Kora la voli, na vida sugiri. Tami ilia sona, sa la voli, kora sona, na vida jali. La voli, kora sona, sa la voli, tame ilia jali. Kora la voli, na vida sugiri.
+Translation: The sun shines brightly in the sky, bringing life to everything. The wind whispers through the trees, singing a sweet melody, as the birds sing their songs. Life is full of beauty and wonder.
+
+
+
+Text 102: Poem about Love (Lili la voli)
+Lili la voli, na vida lema. Tame ilia lipa, sa lipi, kora lipa, na vida jali. Li pa, kora lipa, sa lipi, tame ilia jali. Lili la voli, na vida lema.
+Translation: My dearest love, life without you is empty. Your lips, your voice, your smile, they fill my heart with joy. Without you, life is nothing but emptiness.
+
+
+
+Text 103: Storytelling (Jali la voli)
+Jali la voli, sa la voli, tame ilia jali. Kora la voli, na vida jali, jali la voli, sa la voli, tame ilia jali. Jali la voli, sa la voli, kora la voli, na vida jali.
+Translation: Once upon a time, there was a world full of beauty and wonder. The birds sang sweet melodies, the wind whispered through the trees, and life was filled with joy. And so, our story begins...
+
+
+
+Text 104: Reflection on Time (Zorli la voli)
+Zorli la voli, na vida sugiri. Sa la voli, kora la voli, tame ilia jali. Zorli la voli, na vida sugiri, kora la voli, sa la voli, tame ilia jali. Zorli la voli, na vida sugiri.
+Translation: Time passes quickly, filling life with beauty and wonder. The sun rises and sets, the seasons change, and life goes on. Time passes quickly, filling life with beauty and wonder.
+
+
+
+Text 105: Ode to Creativity (Drala la voli)
+Drala la voli, na vida lema. Tame ilia dra, sa dra, tame ilia jali. Dra la voli, na vida lema, drala la voli, sa dra, tame ilia jali. Drala la voli, na vida lema.
+Translation: Creativity flows freely, filling life with beauty and wonder. With every brushstroke, every note, every step, creation unfolds. Creativity flows freely, filling life with beauty and wonder.
+
+
+
+Text 106: Exploration of Emotions (Pona la voli)
+Pona la voli, na vida lema. Tame ilia pon, sa pon, tame ilia jali. Pon la voli, na vida lema, pona la voli, sa pon, tame ilia jali. Pona la voli, na vida lema.
+Translation: Emotions run deep, filling life with complexity and richness. Joy and sadness, happiness and fear, they all coexist within us. Emotions run deep, filling life with complexity and richness.
+
+
+
+Text 107: Description of a Landscape
+Kor ali na voli, ta ilia lava. Kor ali na voli, ta ilia lava. Laava laava, kor ali na voli. Kor ali na voli, ta ilia lava. Laava laava, kor ali na voli.
+Translation: "In front of the sun, there are mountains of light. In front of the sun, there are mountains of light. Light lights, in front of the sun. Mountains of light, in front of the sun. Light lights, in front of the sun."
+
+
+
+Text 108: Poem About Nature
+Lili, lili, laava lava.
+Pono pono, laava lava.
+Zen zen, laava lava.
+Lili, lili, laava lava.
+Translation: "Smile, smile, light light. / Pure pure, light light. / Peace peace, light light. / Smile, smile, light light."
+
+
+
+Text 109: Story About a Adventurer
+Ko ali na voli, ta ilia lava. Ko ali na voli, ta ilia lava. Laava laava, ko ali na voli. Ko ali na voli, ta ilia lava. Laava laava, ko ali na voli.
+Translation: "In front of the sun, there are mountains of light. In front of the sun, there are mountains of light. Light lights, in front of the sun. In front of the sun, there are mountains of light. Light lights, in front of the sun."
+
+
+
+Text 110: Song About Love
+Wo jado, jado wo.
+Pe pe, wo jado.
+Dar dar, wo jado.
+Wo jado, jado wo.
+Translation: "My heart, my heart. / Beat beat, my heart. / Strong strong, my heart. / My heart, my heart."
+
+
+
+Text 111: Description of a Memory
+Ilani na voli, ta ilia lava. Ilani na voli, ta ilia lava. Laava laava, ilani na voli. Ilani na voli, ta ilia lava. Laava laava, ilani na voli.
+Translation: "A long time ago, there were mountains of light. A long time ago, there were mountains of light. Light lights, a long time ago. A long time ago, there were mountains of light. Light lights, a long time ago."
+
+
+
+Text 112: Instruction About Morals
+Zen zen, laava lava. Pono pono, laava lava. Lilo lilo, laava lava. Zen zen, laava lava.
+Translation: "Peace peace, light light. Good good, light light. Nice nice, light light. Peace peace, light light."
